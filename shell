@@ -1,1 +1,2 @@
 https://git-scm.com/docs/git-ls-files
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
