@@ -1,0 +1,2 @@
+1-the comand for compiling : cc -Wall -Wextra -Werror file_name.c
+1-2- and then u can tap : ./a.out
