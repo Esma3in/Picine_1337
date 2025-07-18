@@ -5,3 +5,6 @@
 means that your C program is including the header file unistd.h, which gives you access to a set of POSIX
 (Portable Operating System Interface) system calls and constants.
 This header is available only on Unix-like systems (Linux, macOS), not on Windows by default.
+
+char *str = "Hello";       // String literal (read-only)
+char str2[] = "Hello";     // Modifiable array
