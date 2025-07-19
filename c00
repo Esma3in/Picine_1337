@@ -8,3 +8,8 @@ This header is available only on Unix-like systems (Linux, macOS), not on Window
 
 char *str = "Hello";       // String literal (read-only)
 char str2[] = "Hello";     // Modifiable array
+
+3-integer devision :
+In C, integer division (/) discards the remainder. For example:
+    If nb = 42, then 42 / 10 = 4.
+    If nb = 123, then 123 / 10 = 12.
